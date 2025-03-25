@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to work on Back-End Development
 - 📫 How to reach me lazarosmaslounkas@gmail.com
-- 
+
 
 <!---
 LazarosMas/LazarosMas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
