@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Lazaros Maslounkas
-- 👀 I’m interested in Python Development
+- 🧑‍🎓 Bachelor's Degree on Industrial Informatics - Computer Science
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Back-End
+- 💞️ I’m looking to work on Back-End Development
 - 📫 How to reach me lazarosmaslounkas@gmail.com
+- 
 
 <!---
 LazarosMas/LazarosMas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
